@@ -1,0 +1,17 @@
+Storage Devices:
+Listed using lsblk.
+
+Mounted Filesystems:
+Verified.
+
+Disk Usage:
+Checked using df -h.
+
+Inodes:
+Checked using df -i.
+
+Storage Health:
+Healthy with available free space.
+
+Recommendation:
+Delete unnecessary files regularly and monitor disk usage.

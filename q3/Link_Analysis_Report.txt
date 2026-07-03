@@ -1,0 +1,11 @@
+Hard link shares same inode.
+
+Symbolic link has different inode.
+
+After deleting original:
+Hard link works.
+Symbolic link becomes broken.
+
+Conclusion:
+Hard links point to data.
+Symbolic links point to filename.

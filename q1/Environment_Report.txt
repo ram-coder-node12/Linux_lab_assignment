@@ -1,0 +1,9 @@
+Username:
+Groups:
+Shell:
+Working Directory:
+Files Listed:
+Network: Successful
+
+Observation:
+System environment verified successfully.

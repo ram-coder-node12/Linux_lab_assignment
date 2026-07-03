@@ -1,0 +1,15 @@
+Directory Created:
+ProjectWorkspace
+
+Permissions Modified:
+plan.txt -> 700
+notes.txt -> 600
+
+Owner:
+(Current username)
+
+Umask:
+(Default value)
+
+Observation:
+Permissions restrict unauthorized access.:;

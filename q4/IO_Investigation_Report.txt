@@ -1,0 +1,9 @@
+Open files observed.
+
+Output redirected successfully.
+
+Errors redirected into error.txt.
+
+Resource limits displayed using ulimit.
+
+Linux manages file I/O using file descriptors.
