@@ -1,15 +1,24 @@
-Directory Created:
-ProjectWorkspace
+Question 2 - Secure Project Workspace Setup
 
-Permissions Modified:
-plan.txt -> 700
-notes.txt -> 600
+Directory Structure Created:
+Project/
+├── docs
+├── src
+├── backup
+└── plan.txt
 
-Owner:
-(Current username)
+Permissions Before Modification:
+-rw-r--r--
+
+Permissions After Modification:
+-rw-------
+
+Ownership:
+Owner: jairam_2223
+Group: jairam_2223
 
 Umask:
-(Default value)
+0022
 
-Observation:
-Permissions restrict unauthorized access.:;
+Explanation:
+The permission 600 allows only the owner to read and write the file. Other users cannot access it, which helps protect project data from unauthorized access.
